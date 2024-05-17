@@ -1,1 +1,1 @@
-Meu primeiro projeto no Github esta sendo baixado
+MEU primeiro projeto baixado via Github
